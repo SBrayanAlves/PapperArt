@@ -1,0 +1,16 @@
+# Credenciais do banco: NUNCA sobem pro Git
+config.properties
+
+# Build
+bin/
+out/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
